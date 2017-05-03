@@ -1,2 +1,0 @@
-# StartStage
-Project Start Stage
